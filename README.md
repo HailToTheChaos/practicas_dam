@@ -21,5 +21,5 @@ Prácticas hechas durante mi segundo año de Desarrollo de Aplicaciones Multipla
 ### JavaFX
 - [Calculadora científica](https://github.com/ieszayas/practica-7-3-calculadora-cientifica-y-conversiones-javafx-HailToTheChaos)
 
-## Android
+## ANDROID
 - [App del tiempo](https://github.com/HailToTheChaos/RAPID_weather)
